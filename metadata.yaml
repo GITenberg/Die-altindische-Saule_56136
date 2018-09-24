@@ -1,0 +1,22 @@
+_repo: Die-altindische-Saule_56136
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sohrmann, Hans
+    gutenberg_agent_id: '48686'
+    url: http://www.gutenberg.org/2009/agents/48686
+description: ''
+gutenberg_issued: '2017-12-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56136'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Columns'
+- !lcsh 'Architecture -- India'
+- GITenberg
+title: Die altindische Säule
+url: http://www.gutenberg.org/ebooks/56136

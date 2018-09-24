@@ -1,11 +1,16 @@
 _repo: Die-altindische-Saule_56136
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56136-h/images/cover.jpg
 creator:
   author:
     agent_name: Sohrmann, Hans
     gutenberg_agent_id: '48686'
     url: http://www.gutenberg.org/2009/agents/48686
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56136#Die-altindische-Saule
 gutenberg_issued: '2017-12-06'
 gutenberg_type: Text
 identifiers:
